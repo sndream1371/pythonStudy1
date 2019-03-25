@@ -187,3 +187,7 @@ thislist.clear()
 print('----clear completely --- start')
 print(thislist)
 print('----clear completely --- end')
+
+#----------------- end of file -------
+
+#########
